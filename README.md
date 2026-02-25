@@ -27,8 +27,8 @@ estudio. De los 3 tipos de recursos, almacena: id, nombre, ocupado?
         c) El sistema debe validar las reglas por tipo de recurso.
 
    -    NO FUNCIONALES
-        a) El sistema debe tener los colores de la eci
-        b) el sistema debe tener los nombres de los recursos en mayusculas.
+        a) Están descritos como: Para los administradores de Silabinfo es importante que se mantengan los colores alusivos al programa de
+Ingeniería de Sistemas. Igualmente, debe ser responsive y tener una tipología legible.
 
 4. SECCION DE DIAGRAMAS DE CASOS DE USO
    En esta seccion se seleccionan los dos requerimientos funcionales más importantes: Validar solicitud reserva y permitir gestión estado solicitud.
