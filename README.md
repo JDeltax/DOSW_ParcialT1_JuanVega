@@ -20,9 +20,9 @@ estudio. De los 3 tipos de recursos, almacena: id, nombre, ocupado?
 3. SECCION DE REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES
    -  FUNCIONALES:
      
-        a) El sistema debe obtener los datos de enlace para Estudiantes y Monitores.  
+        a) El sistema debe validar solicitudes de reserva.  
       
-        b) El sistema debe obtener los datos de RH para docentes.
+        b) El sistema debe permitir gestionar el estado de una solicitud.
    
         c) El sistema debe validar las reglas por tipo de recurso.
 
@@ -31,4 +31,7 @@ estudio. De los 3 tipos de recursos, almacena: id, nombre, ocupado?
         b) el sistema debe tener los nombres de los recursos en mayusculas.
 
 4. SECCION DE DIAGRAMAS DE CASOS DE USO
-   En esta seccion se seleccionan los dos requerimientos funcionales más importantes: Obtener datos de Enlace y Obtener datos de RH
+   En esta seccion se seleccionan los dos requerimientos funcionales más importantes: Validar solicitud reserva y permitir gestión estado solicitud.
+
+
+
