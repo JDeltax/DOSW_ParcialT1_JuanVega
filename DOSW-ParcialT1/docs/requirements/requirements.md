@@ -20,7 +20,7 @@ El sistema de Silabinfo debe tener la capacidad de:
 |------|-------------|
 | **ID** | RF-01 |
 | **Nombre del requerimiento** | VALIDACIÓN SOLICITUDES DE RESERVA|
-| **Descripción** | *El sistema debe validar las solicitudes de reserva debe ser creada por el sistema Silabinfo (El usuario especifica la solicitud)*|
+| **Descripción** | *El sistema debe validar las solicitudes de reserva debe ser creada por el usuario (El usuario especifica la solicitud)*|
 | **Precondiciones** | *Para que el sistema cumpla con este requirimiento debe tener previamente los datos de los recursos de la ECI* |
 | **Actor** | *Usuario* |
 | **Flujo principal** | 1. El actor solicita una reserva …<br>2. El sistema aprueba (validando primero) la reserva …<br>3. El sistema retorna una reserva en exito o en falla |
@@ -36,7 +36,8 @@ El sistema de Silabinfo debe tener la capacidad de:
 | **Nombre del requerimiento** | GESTIONAR SOLICITUD |
 | **Descripción** | *El sistema debe permitir la validación de una solicitud/reserva para la otbención del estado de la misma o su respectiva eliminación* |
 | **Precondiciones** | *Para que el sistema cumpla con este requerimiento, Silabinfo debe tener previamente una reserva creada* |
-| **Actor** | *Usuario (Estudiante, Monitor o Profesor)* |
-| **Flujo principal** | 1. El actor desea gestionar su reserva<br>2. El sistema muestra información y posibilidad de eliminar<br>3. El sistema realiza la acción deseada. |
+| **Actor** | *El sistema como tal o un admin* |
+| **Flujo principal** | 1. El admin desea gestionar las reservas<br>2. El sistema compara informacion <br>3. El sistema realiza la acción deseada de eliminar una reserva ya realizada |
 | **Diagrama de caso de uso** | ![Imagen 2](../images/usecase2.png)|
-| **Poscondiciones** | *Se espera como resultado que el sistema arroje la info solicitada* |
+| **Poscondiciones** | *Se espera como resultado que el sistema arroje la info solicitada y lsa acciones hechas.* |
+
