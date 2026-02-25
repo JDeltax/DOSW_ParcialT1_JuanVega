@@ -32,6 +32,11 @@ Ingeniería de Sistemas. Igualmente, debe ser responsive y tener una tipología 
 
 4. SECCION DE DIAGRAMAS DE CASOS DE USO
    En esta seccion se seleccionan los dos requerimientos funcionales más importantes: Validar solicitud reserva y permitir gestión estado solicitud.
+   
+| Caso de uso 1 | Caso de uso 2 |
+| :---: | :---: |
+| ![Caso 1](DOSW-ParcialT1/docs/images/usecase1.png) | ![Caso 2](DOSW-ParcialT1/docs/images/usecase2.png) |
+
 
 
 
