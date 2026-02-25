@@ -74,6 +74,12 @@ Ingeniería de Sistemas. Igualmente, debe ser responsive y tener una tipología 
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | Crear una funcion que permita la creacion de la solicitud de la reserva luego de ser validada bajo los parametros previos ingresados (email, recursos) |
 
+7. DIAGRAMA UML
+   ![imagen diagrama de clases](DOSW-ParcialT1/docs/images/classdiag.png)
 
+   Estoyy aplicando OPEN/ClOSED debido a que extiendo las clases , Interface Segregation al utilizar la interfaz para tener funcionalidades.
+
+   Así mismo Liskov principle al permitir que las clases hijas apliquen el comportamiento de los padres y no lo rompan.
+   
 
 
