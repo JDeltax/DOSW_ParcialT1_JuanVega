@@ -37,6 +37,43 @@ Ingeniería de Sistemas. Igualmente, debe ser responsive y tener una tipología 
 | :---: | :---: |
 | ![Caso 1](DOSW-ParcialT1/docs/images/usecase1.png) | ![Caso 2](DOSW-ParcialT1/docs/images/usecase2.png) |
 
+6. TAREAS
+
+ÉPICA:  VALIDAR SOLICITUDES DE RESERVA  
+
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | HU-01 |
+| **Título** |Creacion solicitud|
+| **Descripción** | Como usuario quiero crear una solicitud para poder realizar mi reserva.|
+| **Prioridad** | *Alta* |
+| **Justificación** | Esta es una solicitud de nivel alto ya que es en lo que se centra el sistema base, es lo que hace el sistema como tal, por ende al ser un nucleo principal, su prioridad de finalización de dicho sistema es alta. |
+| **Estimación** | 8 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-01 |
+| **Título** | Especificación correo  |
+| **ID de la Historia de Uso asociada** | HU-01 |
+| **Descripción** | Desarrollar receptor de data de los correos para validar que el correoingresado si sea valido y exista |
+
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-02 |
+| **Título** | Especificación salon|
+| **ID de la Historia de Uso asociada** | HU-01 |
+| **Descripción** | Desarrollar una funcion que permita la especificación de los recursos solicitados y la validacion del mismo|
+|
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-03 |
+| **Título** | creacion solicitud|
+| **ID de la Historia de Uso asociada** | HU-01 |
+| **Descripción** | Crear una funcion que permita la creacion de la solicitud de la reserva luego de ser validada bajo los parametros previos ingresados (email, recursos) |
+
 
 
 
