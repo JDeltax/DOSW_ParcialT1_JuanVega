@@ -31,7 +31,7 @@ estudio. De los 3 tipos de recursos, almacena: id, nombre, ocupado?
 Ingeniería de Sistemas. Igualmente, debe ser responsive y tener una tipología legible.
 
 4. SECCION DE DIAGRAMAS DE CASOS DE USO
-   En esta seccion se seleccionan los dos requerimientos funcionales más importantes: Validar solicitud reserva y permitir gestión estado solicitud.
+   En esta seccion se seleccionan los dos requerimientos funcionales más importantes: Validar solicitud reserva y permitir gestión estado solicitud por parte de el sistema Silab(la gestion).
    
 | Caso de uso 1 | Caso de uso 2 |
 | :---: | :---: |
